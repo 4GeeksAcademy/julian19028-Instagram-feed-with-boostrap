@@ -1,0 +1,46 @@
+.post1 {
+    justify-content: center;
+    border: 1px solid wheat;
+    border-radius: 3px;
+    height: 520px;
+    width: 601px;
+    margin-left: 700px;
+    margin-bottom: 15px;
+}
+.post2 {
+    justify-content: center;
+    border: 1px solid wheat;
+    border-radius: 3px;
+    height: 520px;
+    width: 601px;
+    margin-left: 700px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.post3 {
+    justify-content: center;
+    border: 1px solid wheat;
+    border-radius: 3px;
+    height: 520px;
+    width: 601px;
+    margin-left: 700px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+#tittles {
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.dates1 {
+    margin-left: 320px;
+}
+.dates2 {
+    margin-left: 280px;
+}
+.dates3 {
+    margin-left: 290px;
+}
+#likes {
+    margin-left: 5px;
+}
